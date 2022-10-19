@@ -6,11 +6,13 @@ For work need use Linux.
 
 
 Server side: 
-gcc FINAL_TCP_Server.c -o Server.out 
+gcc FINAL_TCP_Server.c -o Server.out
+
 ./Server.out 
 
 Client side: 
 gcc FINAL_TCP_Client.c -o Client.out 
+
 ./Client.out 
 
 
